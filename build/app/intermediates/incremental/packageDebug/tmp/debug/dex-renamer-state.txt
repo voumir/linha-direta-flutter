@@ -1,4 +1,0 @@
-#Tue Jan 07 21:54:24 BRST 2020
-base.0=/home/volmir/Temp/linhaf/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
